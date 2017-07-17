@@ -1,7 +1,0 @@
-Mughamara is an arabic word meaning "adventure".
-It is a 2D runner game in which the player jumps platform to platform avoiding mummies and spikes and collecting as much coin as possible.
-
-
-
-Developer: Dhanesh Motwani
-Email: dhanesh2013.500@gmail.com
